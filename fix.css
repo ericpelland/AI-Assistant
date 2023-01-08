@@ -1,0 +1,37 @@
+.loading-ai-tooltip {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.spinner-ai-tooltip {
+    width: 20px;
+    height: 20px;
+    border: 3px solid #ccc;
+    border-radius: 50%;
+    border-top-color: #333;
+    animation: spinner-ai-tooltip 0.6s linear infinite;
+}
+
+@keyframes spinner-ai-tooltip {
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.ai-tooltip {
+    all: initial;
+    color: black !important;
+    z-index: 99999;
+    font-size: 14px !important;
+    max-width: 500px !important;
+    min-height: 30px;
+    min-width: 50px;
+    max-height: 200px !important;
+    overflow-y: auto !important;
+    position: fixed !important;
+    background-color: lightyellow !important;
+    border: 1px solid gray !important;
+    padding: 5px !important;
+    border-radius: 15px !important;
+}
