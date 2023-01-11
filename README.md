@@ -14,7 +14,7 @@ The AI Browser Assistant is a Google Chrome browser extension that uses advanced
 
 To use the AI Browser Assistant, you will need to obtain an API key from OpenAI. You can sign up for a free API key at the [OpenAI Developer Portal](https://beta.openai.com/signup/). Once you have your API key, follow these steps to get started:
 
-1. Install the AI Browser Assistant from the [Chrome Web Store](https://chrome.google.com/webstore/). (COMING SOON - For now turn on developer mode in your extension settings, and load it unpacked)
+1. Install the AI Browser Assistant from the [Chrome Web Store](https://chrome.google.com/webstore/detail/ai-browser-assistant/acnnfeagheddkehglaipegkdekelpilf?hl=en&authuser=0).
 2. Click on the extension icon to open the popup window.
 3. Go to the Settings tab.
 4. Enter your API key in the API Key field.
